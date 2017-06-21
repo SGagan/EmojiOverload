@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "437040957164",
+    "firebase_url": "https://emojioverload-9a414.firebaseio.com",
+    "project_id": "emojioverload-9a414",
+    "storage_bucket": "emojioverload-9a414.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437040957164:android:5b9561f373f3459b",
+        "android_client_info": {
+          "package_name": "science.wookup.emojioverload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437040957164-kqlrr12dqnf9mml2jmk3a29331h3tv0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "science.wookup.emojioverload",
+            "certificate_hash": "152e0f96e8b8a424b0dd0ced687b4e186b37034b"
+          }
+        },
+        {
+          "client_id": "437040957164-cfo1odhqd2je4aas707aj87tpi3nlb4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjlZqEXnLpchtcWS2FaJj8CqexRxxaCGU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437040957164-cfo1odhqd2je4aas707aj87tpi3nlb4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
